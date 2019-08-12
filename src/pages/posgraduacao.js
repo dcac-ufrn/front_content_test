@@ -3,9 +3,9 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <h1>Apresentação</h1>
+    <h1>Pós-Graduação</h1>
     <p>
-      Página inicial
+      Mestrado e Doutorado em Ciências Climáticas
     </p>
   </Layout>
 )

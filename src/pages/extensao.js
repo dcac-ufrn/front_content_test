@@ -3,9 +3,9 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <h1>Apresentação</h1>
+    <h1>Extensão</h1>
     <p>
-      Página inicial
+      Projetos de extensão.
     </p>
   </Layout>
 )

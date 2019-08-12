@@ -3,9 +3,9 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <h1>Apresentação</h1>
+    <h1>Pesquisa</h1>
     <p>
-      Página inicial
+      Bases, grupos e linhas de pesquisa
     </p>
   </Layout>
 )

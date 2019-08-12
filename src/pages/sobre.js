@@ -3,9 +3,7 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <h1>Apresentação</h1>
-    <p>
-      Página inicial
-    </p>
+    <h1>About</h1>
+    <p>Seção que precisa de subseções.</p>
   </Layout>
 )

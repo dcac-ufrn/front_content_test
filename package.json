@@ -21,7 +21,8 @@
     "react-dom": "^16.8.6",
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
-    "typography-theme-fairy-gates": "^0.16.19"
+    "typography-theme-fairy-gates": "^0.16.19",
+    "mem": ">=4.0.0"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
